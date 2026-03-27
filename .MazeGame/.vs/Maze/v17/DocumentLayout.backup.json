@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayde_tcy3gad\\Desktop\\Eichenplatte\\.DevStuff\\GithubRepos\\TSU_GameProgrammingFundimentals\\Week6_MazeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Maze\\Maze.vcxproj|C:\\Users\\hayde_tcy3gad\\Desktop\\Eichenplatte\\.DevStuff\\GithubRepos\\TSU_GameProgrammingFundimentals\\Week6_MazeGame\\Maze\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Maze\\Maze.vcxproj|solutionrelative:Maze\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hayde_tcy3gad\\Desktop\\Eichenplatte\\.DevStuff\\GithubRepos\\TSU_GameProgrammingFundimentals\\Week6_MazeGame\\Maze\\main.cpp",
+              "RelativeDocumentMoniker": "Maze\\main.cpp",
+              "ToolTip": "C:\\Users\\hayde_tcy3gad\\Desktop\\Eichenplatte\\.DevStuff\\GithubRepos\\TSU_GameProgrammingFundimentals\\Week6_MazeGame\\Maze\\main.cpp",
+              "RelativeToolTip": "Maze\\main.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T03:07:46.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
